@@ -7,7 +7,7 @@ azamatolegen/azamatolegen is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-📝 Recent projects I am working on: 
+📝 Projects I am recently working on: 
 
 [PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models](https://github.com/azamatolegen/pytorch-recommendation_systems)
 
