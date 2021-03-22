@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 [PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models](https://github.com/azamatolegen/pytorch-recommendation_systems)
 
+<!---
 [Pytorch Targeted Sentiment Analysis](https://github.com/azamatolegen/pytorch-targeted-sentiment-analysis)
+--->
 
 [Churn Prediction with PySpark](https://github.com/azamatolegen/pyspark-churn-prediction)
 
