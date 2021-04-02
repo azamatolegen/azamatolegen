@@ -9,12 +9,12 @@ You can click the Preview link to take a look at your changes.
 
 📝 Projects I am recently working on: 
 
-[PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models](https://github.com/azamatolegen/pytorch-recommendation_systems)
+[PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models](https://github.com/azamatolegen/pytorch-recommendation_systems) [PyTorch, Fast API, Docker, Heroku]
 
 <!---
 [Pytorch Targeted Sentiment Analysis](https://github.com/azamatolegen/pytorch-targeted-sentiment-analysis)
 --->
 
-[Churn Prediction with PySpark](https://github.com/azamatolegen/pyspark-churn-prediction)
+[Churn Prediction with PySpark](https://github.com/azamatolegen/pyspark-churn-prediction) [PySpark, AWS EMR]
 
 [Riiid Answer Correctness Prediction: Feature Creation + Modeling + Inference ](https://github.com/azamatolegen/kaggle-Riiid-prediction-LightGBM)
