@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 📝 Projects I am recently working on: 
 
-[PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models](https://github.com/azamatolegen/pytorch-recommendation_systems) [PyTorch, Fast API, Docker, Heroku]
+[PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models](https://github.com/azamatolegen/pytorch-recommendation_systems) [PyTorch, Flask API, Docker, Heroku]
 
 <!---
 [Pytorch Targeted Sentiment Analysis](https://github.com/azamatolegen/pytorch-targeted-sentiment-analysis)
