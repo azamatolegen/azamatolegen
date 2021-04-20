@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 [Churn Prediction with PySpark](https://github.com/azamatolegen/pyspark-churn-prediction) [PySpark, AWS EMR]
 
-[Riiid Answer Correctness Prediction: Feature Creation + Modeling + Inference ](https://github.com/azamatolegen/kaggle-Riiid-prediction-LightGBM)
+[Riiid Answer Correctness Prediction: Feature Creation + Modeling + Inference ](https://github.com/azamatolegen/kaggle-Riiid-prediction-LightGBM) [Python, scikit-learn, LightGBM, Matplotlib ]
