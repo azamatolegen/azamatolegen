@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azamat Tolegen
-- 👀 I'm a data scientist who is deeply interested in tinkering with neural networks, natural language processing, and gathering best practices of machine learning in production. 
+- 👀 I'm a data scientist who is deeply interested in neural networks, natural language processing, and gathering best practices of machine learning in production. 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/azamat-tolegen-763969bb/) and [Twitter](https://twitter.com/Azamat07412948)
 
 <!---
